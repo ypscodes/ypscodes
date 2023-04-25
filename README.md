@@ -32,7 +32,7 @@
 [![Yash's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ypscodes&card_width=500&theme=moltack#gh-dark-mode-only)](https://github.com/ypscodes/github-readme-stats#gh-dark-mode-only)
 [![Yash's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ypscodes&card_width=500&theme=merko#gh-light-mode-only)](https://github.com/ypscodes/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ypscodes&card_width=500&langs_count=7&theme=moltack#gh-dark-mode-only)](https://github.com/ypscodes/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ypscodes&card_width=500&langs_count=7&theme=merko#gh-light-mode-only)](https://github.com/ypscodes/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ypscodes&card_width=500&langs_count=8&theme=moltack&layout=compact#gh-dark-mode-only)](https://github.com/ypscodes/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ypscodes&card_width=500&langs_count=8&theme=merko&layout=compact#gh-light-mode-only)](https://github.com/ypscodes/github-readme-stats#gh-light-mode-only)
 
 
